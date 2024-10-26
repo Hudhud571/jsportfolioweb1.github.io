@@ -1,2 +1,1 @@
-# jsportfolioweb.github.io
-# jsportfolioweb1.github.io
+This is JavaScript portfolio web page.
